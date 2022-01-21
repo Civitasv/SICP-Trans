@@ -13,3 +13,7 @@
 视空闲时间决定。
 
 ** 链接
+
+| Content  | 内容 |
+|----------+------|
+| [[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-5.html#%_chap_Temp_2][Foreword]] | [[file:content/Foreword.org][前言]] |
